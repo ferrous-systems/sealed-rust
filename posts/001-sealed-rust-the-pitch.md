@@ -108,7 +108,7 @@ In the long term, we expect that Ferrous Systems, and likely other entities, wou
 * Certification Authorities, such as TÜV, the FAA, and EASA
 * Companies interested in providing material support, such as engineering assistance and financial support
 
-Once the plan has been finalized, we can begin drawing a road map based on the tasks enumerated, and the level of financial, research, and engineering support available for these efforts. We hope to bring stakeholders together in a form such as a Working Group (WG) or Special Interest Group (SIG), made up of the stakeholders listed above. If you or your company are interested in joining this effort, please [join our newsletter](#), follow our [coordination repository], or [contact us directly] to discuss.
+Once the plan has been finalized, we can begin drawing a road map based on the tasks enumerated, and the level of financial, research, and engineering support available for these efforts. We hope to bring stakeholders together in a form such as a Working Group (WG) or Special Interest Group (SIG), made up of the stakeholders listed above. If you or your company are interested in joining this effort, please [join our newsletter](http://eepurl.com/guoC6P), follow our [coordination repository], or [contact us directly] to discuss.
 
 At this early stage, funding is particularly necessary to begin this process. If you or your company are interested in assisting with financing this initial work, please [contact us directly].
 
